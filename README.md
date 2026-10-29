@@ -1,4 +1,4 @@
-# Hey This is Pong!
+# Hey this is Pong!
 
 Made by Rayaan,
 
